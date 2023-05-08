@@ -8,6 +8,15 @@ The purpose of this repository is to provide guidance for interviewers looking t
 The repository is organized as follows:
 
 #Questions: This folder contains a set of interview questions categorized by topic. Each topic folder contains a markdown file with the questions and their corresponding answers.
+The questions are about: 
+Network Architecture and Protocols: Questions on TCP/IP, DNS, OSI model, etc.
+Operating Systems: Questions on Windows, Linux, macOS, etc.
+Common Security Tools: Questions on firewalls, antivirus software, IDS/IPS, etc.
+Cybersecurity Frameworks and Standards: Questions on NIST, ISO, CIS, etc.
+Scripting Languages: Questions on Python, PowerShell, etc.
+Cloud Computing: Questions on cloud concepts and security issues.
+Incident Response: Questions on procedures and methodologies.
+Data Analysis and Visualization: Questions on tools and techniques.
 
 #README.md: This file, which you are currently reading, provides an overview of the repository and its contents.
 
